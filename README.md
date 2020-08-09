@@ -18,7 +18,6 @@
 
 <p><b>Бродяги</b> - эти лисы выбрали путь одиночества. Они гордые и независимые, имеют пылкий нрав, но это не значит, что они безрассудные.</p>
 
-<center><font size="5"><a href="login.html" title="Вход"><font color="#F0FFFF">Войти</font></a> или <a href="registration.html" title="регистрация"><font color="#F0FFFF">зарегистрироваться</font></a></font></center>
 
 <table border="0" width="0%"><tr><td><div><p><font size="5">Список администрации</font></p>
 <table class="table_dark" border="1" width="20%" cellpadding="5">
