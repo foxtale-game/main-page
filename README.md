@@ -4,6 +4,45 @@
 <head>
 <title>Главная страница / FoxTale</title>
 <link rel="stylesheet" type="text/css" href='web.css' />
+  <style type="text/css">
+body {
+font-size: 1em;
+color: #e3e7ff;
+background-color: #3f466b;
+font-family: "Courier New";
+}
+
+.table_dark {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 14px;
+  color: #e3e7ff;
+  width: 640px;
+  text-align: left;
+  border-collapse: collapse;
+  background: #2f3559;
+  margin: 10px;
+}
+.table_dark th {
+  color: #e3e7ff;
+  border-bottom: 1px solid #4e568a;
+  padding: 12px 17px;
+}
+.table_dark td {
+  color: #e3e7ff;
+  border-bottom: 1px solid #4e568a;
+  border-right:1px solid #4e568a;
+  padding: 7px 17px;
+}
+.table_dark tr:last-child td {
+  border-bottom: none;
+}
+.table_dark td:last-child {
+  border-right: none;
+}
+.table_dark tr:hover td {
+  text-decoration: underline;
+}
+</style>
 </head>
 <body>
 <center><img src="http://d.zaix.ru/js2C.png" width="420" height="100" alt="Заголовок" /></center>
